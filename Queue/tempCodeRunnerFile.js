@@ -1,0 +1,7 @@
+queue.print()
+// queue.dequeue()
+// queue.print()
+// queue.enqueue(40)
+// queue.print()
+// queue.dequeue()
+// queue.print()
